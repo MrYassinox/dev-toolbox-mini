@@ -1,6 +1,6 @@
 <div align="center">
 
-# utils standard
+# Dev Toolbox Mini
 [![GitHub license](https://img.shields.io/github/license/MrYassinox/dev-toolbox-mini?color=blue)](./LICENSE)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/MrYassinox/dev-toolbox-mini/main?color=success&style=flat)
 ![GitHub Latest Release](https://img.shields.io/github/v/release/MrYassinox/dev-toolbox-mini)
